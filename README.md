@@ -8,6 +8,11 @@
 
 4) PHP example.
 
+How it works?:
+username = $_GET["username"];
+Send a get request to:
+https://www.instagram.com/username/?__a=1
+The returned JSON contains the user id.
 
 Code:
 <p align="center">
