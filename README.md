@@ -31,5 +31,5 @@ Send a get request with the parameter "username"
   <img src="http://www.anakornk.com/wp-content/uploads/2016/09/usage.png" width="350"/>
 </p>
 
-Credits:
+## Credits: ##
 http://stackoverflow.com/a/38342137/5334285
