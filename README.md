@@ -9,10 +9,14 @@
 4) PHP example.
 
 How it works?:
-username = $_GET["username"];
-Send a get request to:
+
+1) username = $_GET["username"];
+
+2) Send a get request to:
+
 https://www.instagram.com/username/?__a=1
-The returned JSON contains the user id.
+
+3) The returned JSON contains the user id.
 
 Code:
 <p align="center">
