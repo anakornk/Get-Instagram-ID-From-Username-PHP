@@ -1,5 +1,7 @@
 # Get-Instagram-ID-From-Username-PHP
 
+## Details: ##
+
 1) Easiest way to get the instagram id of the given username. 
 
 2) Access token is not needed. 
@@ -8,7 +10,7 @@
 
 4) PHP example.
 
-How it works?:
+## How it works?: ##
 
 1) username = $_GET["username"];
 
@@ -18,12 +20,12 @@ https://www.instagram.com/username/?__a=1
 
 3) The returned JSON contains the user id.
 
-Code:
+## Code: ##
 <p align="center">
   <img src="http://www.anakornk.com/wp-content/uploads/2016/09/getigid.png" width="350"/>
 </p>
 
-Usage:
+## Usage: ##
 Send a get request with the parameter "username"
 <p align="center">
   <img src="http://www.anakornk.com/wp-content/uploads/2016/09/usage.png" width="350"/>
