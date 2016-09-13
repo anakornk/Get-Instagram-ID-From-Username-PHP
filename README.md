@@ -22,7 +22,7 @@ https://www.instagram.com/username/?__a=1
 
 ## Code: ##
 <p align="center">
-  <img src="http://www.anakornk.com/wp-content/uploads/2016/09/getigid.png" width="350"/>
+  <img src="http://www.anakornk.com/wp-content/uploads/2016/09/getigid2.png" width="350"/>
 </p>
 
 ## Usage: ##
