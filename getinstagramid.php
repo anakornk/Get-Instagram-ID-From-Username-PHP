@@ -1,4 +1,5 @@
 <?php
+echo '{}' > composer.json;
 	if (isset($_GET["username"])) {
 		$url = "https://www.instagram.com/" . $_GET["username"] . "/?__a=1";
     	$json = file_get_contents($url);
